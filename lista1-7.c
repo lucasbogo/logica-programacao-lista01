@@ -9,5 +9,4 @@ scanf("%f", &num2);
 result= num1/num2;
 printf("Tempo necessario: %.2f segundos",result);
 return 0;
-  
 }
