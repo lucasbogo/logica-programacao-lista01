@@ -2,7 +2,8 @@
  =========================
 
 Exercícios resolvidos em C para a disciplina de Logica de Programação (IFPR)
-<br/>
+<br>
+<br>
 
 
 ## 1) Ler um número inteiro, adicionar o valor 2 a esse número e informar o resultado.
