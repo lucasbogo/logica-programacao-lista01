@@ -1,5 +1,3 @@
-//Ler um número inteiro, adicionar o valor 2 a esse número e informar o resultado.
-
 #include <stdio.h>
 
 int main(){
