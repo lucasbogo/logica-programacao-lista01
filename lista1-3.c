@@ -1,15 +1,14 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
-float num, result;
+  float num, result;
 
-printf("Valor Total de Venda: ");
-scanf("%f", &num);
-
-result = num * 0.1;
-
-printf("Comissao vendedor: R$ %.2f",result);
+    printf("Valor Total de Venda: ");
+    scanf("%f", &num);
+    result = num * 0.1;
+    printf("Comissao vendedor: R$ %.2f",result);
 
 return 0;
 
