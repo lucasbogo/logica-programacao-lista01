@@ -1,7 +1,7 @@
- logica-programacao-lista1
+ logica-programacao-lista1-intro
  =========================
 
-Exercícios resolvidos em **C** para a disciplina de Logica de Programação (IFPR)
+Exercícios resolvidos em **C** para a disciplina de Logica de Programação (IFPR) | **Introdução a programação**
 <br>
 <br>
 <br>
